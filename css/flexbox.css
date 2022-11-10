@@ -100,6 +100,8 @@
     display: flex;
     /* flex-direction: column;
     flex-wrap: wrap; */
+    
+    /* flex-flow faz a função das duas*/
     flex-flow: column wrap;
 }
 
